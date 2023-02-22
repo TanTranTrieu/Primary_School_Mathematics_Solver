@@ -1,0 +1,3 @@
+Số cây trồng được ở 6 hàng trong thửa thứ nhất là: 72 x 6 = 432 cây.
+Số cây trồng được ở 6 hàng trong thửa thứ hai là: 72 x 6 = 432 cây
+Vậy số cây mà nhà Bác Bình trồng được là 432 + 432 = 864 cây.

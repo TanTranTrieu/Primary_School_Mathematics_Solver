@@ -1,0 +1,10 @@
+E:\CSharp\FinalProject\bin\Debug\FinalProject.exe.config
+E:\CSharp\FinalProject\bin\Debug\FinalProject.exe
+E:\CSharp\FinalProject\bin\Debug\FinalProject.pdb
+E:\CSharp\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+E:\CSharp\FinalProject\obj\Debug\FinalProject.Form1.resources
+E:\CSharp\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+E:\CSharp\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+E:\CSharp\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+E:\CSharp\FinalProject\obj\Debug\FinalProject.exe
+E:\CSharp\FinalProject\obj\Debug\FinalProject.pdb

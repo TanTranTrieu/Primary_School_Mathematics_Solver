@@ -1,0 +1,1 @@
+Bác Bình có 2 thửa ruộng, mỗi thửa ruộng có 6 hàng, mỗi hàng trồng được 72 cây ăn quả. Hỏi nhà Bác Bình có tổng cộng bao nhiêu cây ăn quả?

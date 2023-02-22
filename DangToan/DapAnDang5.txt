@@ -1,0 +1,3 @@
+Can thứ hai gấp 4 lần can thứ nhất nên số dầu ở can thứ hai là 24 x 4 = 96 (lít dầu)
+Can thứ hai nhiều hơn can thứ nhất với số lít dầu là 96 - 24 = 72 (lít dầu)
+Vậy can thứ hai hơn can thứ nhất là 72 (lít dầu)
